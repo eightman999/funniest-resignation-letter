@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "/output")
-ENTRY_TEXT = "Effective Friday, my out-of-office message becomes a lifestyle."
+ENTRY_TEXT = "Thank you for all the opportunities. I've taken them, including this one."
 
 
 def main() -> None:
